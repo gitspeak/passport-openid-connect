@@ -1,4 +1,4 @@
-# PassportJS Strategy for OpenID Connect
+# Gitspeak adapted PassportJS Strategy for OpenID Connect
 
 This is AFAIK the only passport strategy that relies on the certified OpenID Connect library for Node.js.
 
@@ -8,7 +8,7 @@ This is AFAIK the only passport strategy that relies on the certified OpenID Con
 Install the module
 
 ```
-npm install passport-openid-connect --save
+npm install https://github.com/gitspeak/passport-openid-connect.git
 ```
 
 Declare
