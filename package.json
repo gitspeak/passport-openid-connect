@@ -4,7 +4,7 @@
   "description": "OpenID Connect PassportJS Strategy",
   "main": "index.js",
   "scripts": {
-	"start": "node server.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
@@ -21,7 +21,7 @@
   "author": "Andreas Åkre Solberg <andreas.solberg@uninett.no>",
   "license": "ISC",
   "dependencies": {
-    "openid-client": "^2.4.5",
+    "openid-client": "^3.7.3",
     "passport": "^0.4.0"
   }
 }
