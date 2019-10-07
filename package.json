@@ -21,7 +21,7 @@
   "author": "Andreas Åkre Solberg <andreas.solberg@uninett.no>",
   "license": "ISC",
   "dependencies": {
-    "openid-client": "^3.7.3",
+    "openid-client": "https://github.com/gitspeak/node-openid-client.git",
     "passport": "^0.4.0"
   }
 }
